@@ -6,10 +6,10 @@
 ## AIM
 To develop a neural network regression model for the given dataset.
 
-## THEORY
+## <br><br><br><br><br><br><br><br>THEORY
 The Neural network model contains input layer,two hidden layers and output layer.Input layer contains a single neuron.Output layer also contains single neuron.First hidden layer contains six neurons and second hidden layer contains seven neurons.A neuron in input layer is connected with every neurons in a first hidden layer.Similarly,each neurons in first hidden layer is connected with all neurons in second hidden layer.All neurons in second hidden layer is connected with output layered neuron.Relu activation function is used here .It is linear neural network model(single input neuron forms single output neuron).
 
-## Neural Network Model
+## <br><br><br><br><br><br><br>Neural Network Model
 ![Screenshot (389)](https://user-images.githubusercontent.com/75243072/187078981-2aafe51a-eaff-4dd6-a902-e6f6bc567333.png)
 
 ## DESIGN STEPS
@@ -72,9 +72,9 @@ model.predict(xn11)
 ## Dataset Information
 ![Screenshot (385)](https://user-images.githubusercontent.com/75243072/187077397-7c129470-1f53-475f-ac8e-a755c425bb9b.png)
 
-## OUTPUT
+## <br>OUTPUT
 ### Training Loss Vs Iteration Plot
-![Screenshot (386)](https://user-images.githubusercontent.com/75243072/187077611-8f14ddac-da56-4067-9f51-564cd37bf1a1.png)
+![Screenshot (390)](https://user-images.githubusercontent.com/75243072/187081481-88c6f8eb-82e3-40f5-ad73-8680fc85a83f.png)
 
 ### Test Data Root Mean Squared Error
 ![Screenshot (387)](https://user-images.githubusercontent.com/75243072/187080899-276e0eed-c3c9-4d40-9c9b-d7d7935acb5a.png)
