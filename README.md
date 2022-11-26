@@ -1,6 +1,6 @@
 ### EXP NO: 01
 
-### .
+### Date:29.08.2022
 
 # <p align = "center"> Developing a Neural Network Regression Model </p>
 ## AIM
